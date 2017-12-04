@@ -1,6 +1,6 @@
 README.md:
 	touch README.md
-	echo "##H Guessing Game" > README.md
+	echo "## H2 Guessing Game" > README.md
 	echo "" >> README.md
 	echo `date` >> README.md
 	echo "" >> README.md
